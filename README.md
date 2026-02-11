@@ -1,2 +1,3 @@
 # goit-markup-hw-01
-Homework 1 HTML
+
+Homework 2 CSS

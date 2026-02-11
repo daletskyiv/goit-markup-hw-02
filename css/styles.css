@@ -1,5 +1,66 @@
 body {
-  font-family: "Roboto", sans-serif;
-  color: "2E2F42";
-  background-color: "FFFFFF";
+  font-family: "Roboto", "Raleway", sans-serif;
+  color: #434455;
+  background-color: #ffffff;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.web-logo {
+  color: #4d5ae5;
+}
+
+.nav-list a:hover,
+.nav-list a:focus {
+  color: #4d5ae5;
+}
+
+.nav-list a {
+  font-weight: 500;
+}
+
+.address a:hover,
+.address a:focus {
+  color: #4d5ae5;
+}
+
+.title-section {
+  background-color: #434455;
+}
+
+.title {
+  color: #ffffff;
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 1.07;
+}
+
+.button {
+  color: #ffffff;
+  background-color: #4d5ae5;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: #404bbf;
+}
+
+.header-2 {
+  font-size: 36px;
+  font-weight: 700;
+}
+
+.header-3 {
+  font-size: 20px;
+  font-weight: 500;
 }
