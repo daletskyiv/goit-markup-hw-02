@@ -34,8 +34,12 @@ ul {
   color: #4d5ae5;
 }
 
+.address {
+  font-style: normal;
+}
+
 .title-section {
-  background-color: #434455;
+  background-color: #2e2f42;
 }
 
 .title {
@@ -63,4 +67,13 @@ ul {
 .header-3 {
   font-size: 20px;
   font-weight: 500;
+}
+
+.team-section {
+  background-color: #f4f4fd;
+}
+
+.footer {
+  color: #f4f4fd;
+  background-color: #2e2f42;
 }
