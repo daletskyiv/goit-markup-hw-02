@@ -18,7 +18,7 @@ ul {
 
 .logo {
   color: #4d5ae5;
-  font-family: "Raleway";
+  font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
@@ -105,4 +105,8 @@ ul {
 .footer {
   color: #f4f4fd;
   background-color: #2e2f42;
+}
+
+.logo-footer {
+  color: #f4f4fd;
 }
